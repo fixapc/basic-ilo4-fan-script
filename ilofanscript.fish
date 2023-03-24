@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/fish
 #HP FAN CONTROL SCRIPT
 set -g ilo4username administrator
 set -g ilo4password 1337Password
